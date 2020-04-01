@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "trung hieu",
+    "phone": "0365933321",
+    "role": "1"
+  },
+  {
+    "id": 1,
+    "name": "trung anh",
+    "phone": "0365933321",
+    "role": "1"
+  },
+  {
+    "id": 2,
+    "name": "le huy",
+    "phone": "0365933321",
+    "role": "2"
+  },
+  {
+    "id": 3,
+    "name": "kim son",
+    "phone": "0365933321",
+    "role": "1"
+  },
+  {
+    "id": 4,
+    "name": "trung khanh",
+    "phone": "0365933321",
+    "role": "3"
+  },
+  {
+    "id": 5,
+    "name": "van hieu",
+    "phone": "0365933321",
+    "role": "2"
+  }
+]
